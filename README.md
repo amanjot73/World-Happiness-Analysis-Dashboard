@@ -59,7 +59,7 @@ The dashboard was designed to achieve the following objectives:
 ## 📂 Repository Structure
 World-Happiness-Analysis-Dashboard/
 │
-├── PowerBI_Report.pbix # Power BI dashboard file
+├── PowerBI_.pbix # Power BI dashboard file
 ├── Dataset/ # Dataset used for analysis
 └── README.md # Project documentation
 
@@ -90,6 +90,7 @@ World-Happiness-Analysis-Dashboard/
 **Amanjot Singh**  
 B.Tech CSE Student  
 Power BI | Data Analytics | Visualization  
+Connect by -> **https://www.linkedin.com/in/amanjotsingh73/**
 
 ---
 
